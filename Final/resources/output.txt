@@ -1,0 +1,47 @@
+0
+1
+We're in up block
+We're in up block
+resources/Frisk/spr_f_maincharau_0.png
+We're in up block
+resources/Frisk/spr_f_maincharau_1.png
+We're in up block
+resources/Frisk/spr_f_maincharau_2.png
+We're in up block
+resources/Frisk/spr_f_maincharau_3.png
+We're in up block
+The number of sprites loaded: 4
+We're in down block
+We're in down block
+resources/Frisk/spr_f_maincharad_0.png
+We're in down block
+resources/Frisk/spr_f_maincharad_1.png
+We're in down block
+resources/Frisk/spr_f_maincharad_2.png
+We're in down block
+resources/Frisk/spr_f_maincharad_3.png
+We're in down block
+The number of sprites loaded: 4
+We're in left block
+We're in left block
+resources/Frisk/spr_f_maincharal_0.png
+We're in left block
+resources/Frisk/spr_f_maincharal_1.png
+We're in left block
+The number of sprites loaded: 2
+We're in right block
+We're in right block
+resources/Frisk/spr_f_maincharar_0.png
+We're in right block
+resources/Frisk/spr_f_maincharar_1.png
+We're in right block
+The number of sprites loaded: 2
+4
+
+final output:
+0 1 2 3 
+4 5 6 7 
+8 9 
+10 11 
+
+Total size of the character sprites set: 12

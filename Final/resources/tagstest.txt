@@ -1,0 +1,23 @@
+* Okay, I'll help you with formating. Let it be a line break. wait = 5 x = 50 y = 50
+linebreak wait = 5 x = 50 y = 50
+
+timewait='5 sec'
+
+pos: 0
+t
+wait!firstpart = 9 wait!secondpart = 11
+* Hope it's working well! I really hope  wait = 300 x = 50 y = 50
+timewait='5 sec' wait = 5 x = 50 y = 50
+so! wait = 5 x = 50 y = 50
+linebreak wait = 5 x = 50 y = 50
+* It's time for some  wait = 5 x = 50 y = 50
+color pos: 0
+FIRSTPART = 9
+SECONDPART = 17
+THE COLOUR IS YELLOW
+r = 255 g = 255 b = 0
+textcolor='yellow' wait = 5 x = 50 y = 50
+bloomy blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah wait = 5 x = 50 y = 50
+color pos: 1
+/textcolor wait = 5 x = 50 y = 50
+ text! wait = 5 x = 50 y = 50

@@ -1,0 +1,6 @@
+* Okay, I'll help you with formating. Let it be a line break.: x = 50 y = 50 fragwait = 5 r = 255 g = 255 b = 255
+* Hope it's working well! I really hope : x = 50 y = 50 fragwait = 300 r = 255 g = 255 b = 255
+so!: x = 50 y = 50 fragwait = 5 r = 255 g = 255 b = 255
+* It's time for some : x = 50 y = 50 fragwait = 5 r = 255 g = 255 b = 255
+bloomy blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah: x = 50 y = 50 fragwait = 5 r = 255 g = 255 b = 0
+ text!: x = 50 y = 50 fragwait = 5 r = 255 g = 255 b = 255
