@@ -1427,7 +1427,7 @@ englishvoice = { loadsound("honk") };
 	current_room = 0;
 	RunRoom(0);
 
-	choc= agk::CreateText("sweet chocolate");
+	choc= agk::CreateText("very sweet chocolate!!");
 }
 
 //int timer = 0;
