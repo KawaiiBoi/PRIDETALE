@@ -1,0 +1,78 @@
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in both directions: 3 and 2
+moving in both directions: 3 and 2
+moving in both directions: 3 and 2
+moving in both directions: 3 and 2
+moving in both directions: 3 and 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in direction: 0
+moving in direction: 0
+moving in direction: 0
+moving in direction: 0
+moving in direction: 0
+moving in both directions: 0 and 1
+moving in both directions: 0 and 1
+moving in both directions: 0 and 1
+moving in direction: 1
+moving in direction: 1
+moving in direction: 1
+moving in direction: 1
+moving in direction: 1
+moving in direction: 1
+moving in direction: 1
+moving in direction: 1
+moving in direction: 1
+moving in both directions: 1 and 3
+moving in both directions: 1 and 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in direction: 3
+moving in both directions: 3 and 2
+moving in both directions: 3 and 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
