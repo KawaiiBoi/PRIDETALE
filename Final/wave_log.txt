@@ -1,1 +1,1 @@
-wave_timer = 28
+wave_timer = 29
