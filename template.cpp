@@ -1429,6 +1429,7 @@ englishvoice = { loadsound("honk") };
 }
 
 //int timer = 0;
+int sometimes_i_want_a_pie = 1313; //test
 int holder;
 int resolution = 0;
 bool closed = false;
