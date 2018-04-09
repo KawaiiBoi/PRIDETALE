@@ -8,7 +8,7 @@
 #include <fstream>
 
 using namespace std;
-
+int choc;
 
 app App;
 
@@ -1426,6 +1426,8 @@ englishvoice = { loadsound("honk") };
 	DebugRun();
 	current_room = 0;
 	RunRoom(0);
+
+	choc= agk::CreateText("sweet chocolate");
 }
 
 //int timer = 0;
@@ -1434,6 +1436,15 @@ int resolution = 0;
 bool closed = false;
 int app::Loop(void)
 {
+	
+	agk::FixTextToScreen(choc, 1);
+	agk::SetTextColor(choc, 255, 0, 0, 255);
+	agk::SetTextPosition(choc, agk::GetVirtualWidth()*0.5, agk::GetVirtualHeight()*0.75);
+	agk::SetTextSize(choc, 50);
+	agk::SetTextDepth(choc, 0);
+	
+
+
 	if (pressed("lkm"))
 	{
 		CloseRoom(0); closed = true;

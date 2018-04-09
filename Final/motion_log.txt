@@ -1,0 +1,175 @@
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in both directions: 2 and 3
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in direction: 2
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in both directions: 2 and 0
+moving in direction: 2
